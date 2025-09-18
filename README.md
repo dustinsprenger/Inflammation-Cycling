@@ -1,0 +1,1 @@
+Note: I have had to split my digital book into five parts due to file size restrictions on GitHub, after downloading these components please recombine them with Adobe or a free online PDF merging service to experience the book as it was intended.
